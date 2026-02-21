@@ -2,6 +2,12 @@
 
 This project features a Deep Learning application that predicts the likelihood of a bank customer leaving (churning) based on their demographic and financial profile. It uses an Artificial Neural Network (ANN) built with TensorFlow/Keras and an interactive web interface powered by Streamlit.
 
+# 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bank-customer-churn-prediction-ann.streamlit.app/)
+
+![UI](/images/image1.png)
+![UI](/images/image2.png)
+
 ## ✨ Features
 
 * **🧠 Deep Learning Engine:** Utilizes a multi-layer Artificial Neural Network (ANN) trained on historical bank customer data.
